@@ -1,4 +1,5 @@
 # nutch-anth
+yahoo的web爬虫工具
 Anthelion is a Nutch plugin for focused crawling of semantic data.
 The project is an open-source project released under the Apache License 2.0.
 
